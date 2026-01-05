@@ -7,8 +7,8 @@ Hi 👋 My name is Devin Gaughan
 Software Engineer
 ------------------------
 
-* 🏡  I'm from Vancouver, Washington, United States of America
-* 🌍  I'm often in Bangkok, Thailand
+* 🏡  I'm from Vancouver, Washington, USA
+* 🌍  I'm often in Asia
 * 🖥️  See my portfolio at [My Portfolio](https://devingaughan.com)
 * ✉️  You can contact me at [devin@devingaughan.com](mailto:devin@devingaughan.com)
 * 🧠  I'm striving to learn something new every day

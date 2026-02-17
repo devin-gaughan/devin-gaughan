@@ -1,20 +1,21 @@
 Hi 👋 My name is Devin Gaughan
 ==============================
-### Socials
 
-<p align="left"> <a href="https://www.github.com/auraeon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devinpgaughan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4369778/devin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devingaughan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Currently developing: 
+Auraeon – Crystal Lattice Simulator
+<p>See a preview: <a href="https://www.devingaughan.com/auraeon/" target="_blank">https://www.devingaughan.com/auraeon/</a></p>
+
 
 Software Engineer
 ------------------------
 
 * 🏡  I'm from Vancouver, Washington, USA
 * 🌍  I'm currently working from Asia
-* 🖥️  See my portfolio at [My Portfolio](https://devingaughan.com)
+* 🖥️  See my portfolio at [devingaughan.com](https://devingaughan.com)
 * ✉️  You can contact me at [devin@devingaughan.com](mailto:devin@devingaughan.com)
 * 🧠  I'm striving to learn something new every day
 
 ### Skills
-
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -35,6 +36,9 @@ Software Engineer
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-### Support Me
+### Socials
+<p align="left"> <a href="https://www.github.com/auraeon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devinpgaughan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4369778/devin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devingaughan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+### Support Me
 <a href="https://www.buymeacoffee.com/devingaughan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

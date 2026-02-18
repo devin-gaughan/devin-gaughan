@@ -3,7 +3,7 @@ Hi 👋 My name is Devin Gaughan
 
 ### Currently developing: 
 Auraeon – Crystal Lattice Simulator
-<p>See a preview: <a href="https://www.devingaughan.com/auraeon/" target="_blank">https://www.devingaughan.com/auraeon/</a></p>
+<p>See a preview: <a href="https://devingaughan.com/auraeon/" target="_blank">https://www.devingaughan.com/auraeon/</a></p>
 
 
 Software Engineer

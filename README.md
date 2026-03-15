@@ -6,7 +6,7 @@ Auraeon – Crystal Lattice Simulator
 <p>See a preview: <a href="https://devingaughan.com/auraeon/" target="_blank">https://www.devingaughan.com/auraeon/</a></p>
 
 
-Software Engineer
+Software Developer
 ------------------------
 
 * 🏡  I'm from Vancouver, Washington, USA

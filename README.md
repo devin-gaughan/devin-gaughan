@@ -25,10 +25,8 @@ Personal portfolio site — project showcase, writing, and experiments. Built wi
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devin-gaughan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Devin's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devin-gaughan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-</a>
+<img height="165" src="./profile/stats.svg" alt="Devin's GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 
 ## Connect
 
